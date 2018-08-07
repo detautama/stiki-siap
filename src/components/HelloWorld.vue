@@ -14,6 +14,7 @@
         <br>
         <br>
         <p class="text-xs-center">Beberapa website stiki dibuka diluar stiki app dikarenakan belum menggunakan ssl (https)</p>
+        <p class="blue--text">Ikut berkontribusi untuk pengembangan web ini. Join <a href="https://github.com/detautama/stiki-siap">Github</a></p>
         <ul class="text-xs-left">
           <h3>Ongoing</h3>
           <li>UKM page</li>
