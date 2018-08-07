@@ -4,7 +4,7 @@
       <v-flex xs12 class="text-xs-center">
         <h1 class="text-xs-center" style="margin-top: 10vh">STIKI APP</h1>
         <h3 class="text-xs-center">###</h3>
-        <p>STIKI APP merupakan aplikasi web tidak resmi dari STIKI INDONESIA yang menampung semua website STIKI dengan basis Progressive Web App, <br>dimana website ini dapat diinstall (dipasang) seperti aplikasi native android maupun ios</p>
+        <p>STIKI APP (SIAP) merupakan aplikasi web tidak resmi untuk mahasiswa STIKI INDONESIA yang menampung semua website STIKI INDONESIA dengan basis Progressive Web App, <br>dimana website ini dapat diinstall (dipasang) seperti aplikasi native android maupun ios</p>
         <p>Support android >4.0 dengan <br> browser chrome versi >67, dapat diinstal ketika muncul pop-up add to home screen seperti pada gambar berikut</p>
         <img src="@/assets/android.png" alt="">
         <br>
