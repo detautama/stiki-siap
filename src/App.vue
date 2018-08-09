@@ -175,7 +175,8 @@ export default {
         {icon: 'view_list', link: '/syntesis', title: 'Syntesis'},
         {icon: 'assignment', link: '/dikti', title: 'Dikti'},
         {icon: 'library_books', link: '/e-journal', title: 'E-Journal'},
-        {icon: 'group', link: '/ukm', title: 'UKM'}
+        {icon: 'group', link: '/ukm', title: 'UKM'},
+        {icon: 'chat', link: '/chat', title: 'Chat'}
       ],
       title: 'SIAP',
       items: [

@@ -6,11 +6,17 @@ import Syntesis from '@/components/Syntesis'
 import Dikti from '@/components/Dikti'
 import EJournal from '@/components/EJournal'
 import UKM from '@/components/UKM'
+import Chat from '@/components/Chat'
 
 Vue.use(Router)
 
 export default new Router({
   routes: [
+    {
+      path: '/chat',
+      name: 'Chat',
+      component: Chat
+    },
     {
       path: '/',
       name: 'HelloWorld',
