@@ -9,11 +9,17 @@ import UKM from '@/components/UKM'
 import Chat from '@/components/Chat'
 import TelpDosen from '@/components/TelpDosen'
 import Kalender from '@/components/Kalender'
+import StikiZen from '@/components/StikiZen'
 
 Vue.use(Router)
 
 export default new Router({
   routes: [
+    {
+      path: '/stikizen',
+      name: 'StikiZen',
+      component: StikiZen
+    },
     {
       path: '/kalender',
       name: 'Kalender',

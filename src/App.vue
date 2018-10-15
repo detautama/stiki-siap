@@ -245,12 +245,13 @@ export default {
         {icon: 'home', link: '/', title: 'Home'},
         {icon: 'account_circle', link: '/siperi', title: 'Siperi'},
         {icon: 'contacts', link: '/telp-dosen', title: 'Telp. Dosen'},
+        {icon: 'calendar_today', link: '/kalender', title: 'Kalender'},
+        {icon: 'chrome_reader_mode', link: '/stikizen', title: 'StikiZen'},
         {icon: 'view_list', link: '/syntesis', title: 'Syntesis'},
         {icon: 'assignment', link: '/dikti', title: 'Dikti'},
         {icon: 'library_books', link: '/e-journal', title: 'E-Journal'},
         {icon: 'group', link: '/ukm', title: 'UKM'},
-        {icon: 'chat', link: '/chat', title: 'Chat'},
-        {icon: 'chat', link: '/kalender', title: 'Kalender'}
+        {icon: 'chat', link: '/chat', title: 'Chat'}
       ],
       title: 'SIAP',
       items: [
