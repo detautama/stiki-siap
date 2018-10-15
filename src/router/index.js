@@ -7,6 +7,7 @@ import Dikti from '@/components/Dikti'
 import EJournal from '@/components/EJournal'
 import UKM from '@/components/UKM'
 import Chat from '@/components/Chat'
+import TelpDosen from '@/components/TelpDosen'
 
 Vue.use(Router)
 
@@ -46,6 +47,11 @@ export default new Router({
       path: '/ukm',
       name: 'UKM',
       component: UKM
+    },
+    {
+      path: '/telp-dosen',
+      name: 'TelpDosen',
+      component: TelpDosen
     }
   ]
 })

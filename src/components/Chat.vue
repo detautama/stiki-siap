@@ -1,7 +1,9 @@
 <template>
   <v-container fluid style="padding-top: 0; padding-left:0; padding-right:0">
     <div class="videoWrapper">
+			<div class="holds-the-iframe">
         <iframe src="https://udemy-ninja-chat-3bfc3.firebaseapp.com" allowfullscreen></iframe>
+			</div>
     </div>
   </v-container>
 </template>

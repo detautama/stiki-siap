@@ -1,7 +1,9 @@
 <template>
   <v-container fluid style="padding-top: 0; padding-left:0; padding-right:0">
     <div class="videoWrapper">
+			<div class="holds-the-iframe">
         <iframe src="https://siperi.stiki-indonesia.ac.id/" allowfullscreen></iframe>
+			</div>
     </div>
   </v-container>
 </template>

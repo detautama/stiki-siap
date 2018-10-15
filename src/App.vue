@@ -35,6 +35,30 @@
           <v-list-tile-action>
             <v-icon>list_alt</v-icon>
           </v-list-tile-action>
+          <a href="http://ktm.stiki-indonesia.ac.id/" target="_blank">
+            <v-list-tile-content>
+              <v-list-tile-title>
+                <p>KTM</p>
+              </v-list-tile-title>
+            </v-list-tile-content>
+          </a>
+        </v-list-tile>
+        <v-list-tile>
+          <v-list-tile-action>
+            <v-icon>list_alt</v-icon>
+          </v-list-tile-action>
+          <a href="http://tracerstudy.stiki-indonesia.ac.id/index.php/form_pengguna" target="_blank">
+            <v-list-tile-content>
+              <v-list-tile-title>
+                <p>Tracer Study</p>
+              </v-list-tile-title>
+            </v-list-tile-content>
+          </a>
+        </v-list-tile>
+        <v-list-tile>
+          <v-list-tile-action>
+            <v-icon>list_alt</v-icon>
+          </v-list-tile-action>
           <a href="http://simala.stiki-indonesia.ac.id/login" target="_blank">
             <v-list-tile-content>
               <v-list-tile-title>
@@ -82,7 +106,7 @@
       clipped-left
       class="blue-grey darken-4 white--text"
     >
-      <v-toolbar-side-icon @click.stop="drawer = !drawer"></v-toolbar-side-icon>
+      <v-toolbar-side-icon @click.stop="drawer = !drawer" class="white--text"></v-toolbar-side-icon>
       <v-toolbar-title v-text="title"></v-toolbar-title>
       <v-spacer></v-spacer>
       <!-- hello -->
@@ -115,7 +139,7 @@
         <v-card-text>
         <v-textarea
           name="input-7-1"
-          label="Tulis Feedback Kamu disini"
+          label="SIAP akan lebih baik apabila ..."
           v-model="feedback"
         ></v-textarea>
         </v-card-text>
@@ -172,6 +196,7 @@ export default {
       listTile: [
         {icon: 'home', link: '/', title: 'Home'},
         {icon: 'account_circle', link: '/siperi', title: 'Siperi'},
+        {icon: 'contacts', link: '/telp-dosen', title: 'Telp. Dosen'},
         {icon: 'view_list', link: '/syntesis', title: 'Syntesis'},
         {icon: 'assignment', link: '/dikti', title: 'Dikti'},
         {icon: 'library_books', link: '/e-journal', title: 'E-Journal'},

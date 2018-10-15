@@ -8,7 +8,6 @@
   </v-container>
 </template>
 
-
 <style scoped>
 .videoWrapper {
 	position: relative;
