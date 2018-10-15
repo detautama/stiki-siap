@@ -35,6 +35,54 @@
           <v-list-tile-action>
             <v-icon>list_alt</v-icon>
           </v-list-tile-action>
+          <a href="http://missbaak.stiki-indonesia.ac.id/" target="_blank">
+            <v-list-tile-content>
+              <v-list-tile-title>
+                <p>Miss BAAK</p>
+              </v-list-tile-title>
+            </v-list-tile-content>
+          </a>
+        </v-list-tile>
+        <v-list-tile>
+          <v-list-tile-action>
+            <v-icon>list_alt</v-icon>
+          </v-list-tile-action>
+          <a href="http://mimpi.stiki-indonesia.ac.id/" target="_blank">
+            <v-list-tile-content>
+              <v-list-tile-title>
+                <p>MIMPIKU</p>
+              </v-list-tile-title>
+            </v-list-tile-content>
+          </a>
+        </v-list-tile>
+        <v-list-tile>
+          <v-list-tile-action>
+            <v-icon>list_alt</v-icon>
+          </v-list-tile-action>
+          <a href="http://presensi.stiki-indonesia.ac.id/" target="_blank">
+            <v-list-tile-content>
+              <v-list-tile-title>
+                <p>Presensi</p>
+              </v-list-tile-title>
+            </v-list-tile-content>
+          </a>
+        </v-list-tile>
+        <v-list-tile>
+          <v-list-tile-action>
+            <v-icon>list_alt</v-icon>
+          </v-list-tile-action>
+          <a href="https://sitasi.stiki-indonesia.ac.id" target="_blank">
+            <v-list-tile-content>
+              <v-list-tile-title>
+                <p>SITASI</p>
+              </v-list-tile-title>
+            </v-list-tile-content>
+          </a>
+        </v-list-tile>
+        <v-list-tile>
+          <v-list-tile-action>
+            <v-icon>list_alt</v-icon>
+          </v-list-tile-action>
           <a href="http://ktm.stiki-indonesia.ac.id/" target="_blank">
             <v-list-tile-content>
               <v-list-tile-title>
