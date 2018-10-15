@@ -249,7 +249,8 @@ export default {
         {icon: 'assignment', link: '/dikti', title: 'Dikti'},
         {icon: 'library_books', link: '/e-journal', title: 'E-Journal'},
         {icon: 'group', link: '/ukm', title: 'UKM'},
-        {icon: 'chat', link: '/chat', title: 'Chat'}
+        {icon: 'chat', link: '/chat', title: 'Chat'},
+        {icon: 'chat', link: '/kalender', title: 'Kalender'}
       ],
       title: 'SIAP',
       items: [

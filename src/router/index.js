@@ -8,11 +8,17 @@ import EJournal from '@/components/EJournal'
 import UKM from '@/components/UKM'
 import Chat from '@/components/Chat'
 import TelpDosen from '@/components/TelpDosen'
+import Kalender from '@/components/Kalender'
 
 Vue.use(Router)
 
 export default new Router({
   routes: [
+    {
+      path: '/kalender',
+      name: 'Kalender',
+      component: Kalender
+    },
     {
       path: '/chat',
       name: 'Chat',
