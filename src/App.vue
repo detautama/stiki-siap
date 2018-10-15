@@ -21,7 +21,7 @@
         </v-list-tile>
         <v-list-tile>
           <v-list-tile-action>
-            <v-icon>list_alt</v-icon>
+            <v-icon>bookmark_border</v-icon>
           </v-list-tile-action>
           <a href="http://akademik.stiki-indonesia.ac.id/?view=login" target="_blank">
             <v-list-tile-content>
@@ -33,7 +33,7 @@
         </v-list-tile>
         <v-list-tile>
           <v-list-tile-action>
-            <v-icon>list_alt</v-icon>
+            <v-icon>bookmark_border</v-icon>
           </v-list-tile-action>
           <a href="http://missbaak.stiki-indonesia.ac.id/" target="_blank">
             <v-list-tile-content>
@@ -45,7 +45,7 @@
         </v-list-tile>
         <v-list-tile>
           <v-list-tile-action>
-            <v-icon>list_alt</v-icon>
+            <v-icon>bookmark_border</v-icon>
           </v-list-tile-action>
           <a href="http://mimpi.stiki-indonesia.ac.id/" target="_blank">
             <v-list-tile-content>
@@ -57,7 +57,7 @@
         </v-list-tile>
         <v-list-tile>
           <v-list-tile-action>
-            <v-icon>list_alt</v-icon>
+            <v-icon>bookmark_border</v-icon>
           </v-list-tile-action>
           <a href="http://presensi.stiki-indonesia.ac.id/" target="_blank">
             <v-list-tile-content>
@@ -69,7 +69,7 @@
         </v-list-tile>
         <v-list-tile>
           <v-list-tile-action>
-            <v-icon>list_alt</v-icon>
+            <v-icon>bookmark_border</v-icon>
           </v-list-tile-action>
           <a href="https://sitasi.stiki-indonesia.ac.id" target="_blank">
             <v-list-tile-content>
@@ -81,7 +81,7 @@
         </v-list-tile>
         <v-list-tile>
           <v-list-tile-action>
-            <v-icon>list_alt</v-icon>
+            <v-icon>bookmark_border</v-icon>
           </v-list-tile-action>
           <a href="http://ktm.stiki-indonesia.ac.id/" target="_blank">
             <v-list-tile-content>
@@ -93,7 +93,7 @@
         </v-list-tile>
         <v-list-tile>
           <v-list-tile-action>
-            <v-icon>list_alt</v-icon>
+            <v-icon>bookmark_border</v-icon>
           </v-list-tile-action>
           <a href="http://tracerstudy.stiki-indonesia.ac.id/index.php/form_pengguna" target="_blank">
             <v-list-tile-content>
@@ -105,7 +105,7 @@
         </v-list-tile>
         <v-list-tile>
           <v-list-tile-action>
-            <v-icon>list_alt</v-icon>
+            <v-icon>bookmark_border</v-icon>
           </v-list-tile-action>
           <a href="http://simala.stiki-indonesia.ac.id/login" target="_blank">
             <v-list-tile-content>
@@ -117,7 +117,7 @@
         </v-list-tile>
         <v-list-tile>
           <v-list-tile-action>
-            <v-icon>list_alt</v-icon>
+            <v-icon>bookmark_border</v-icon>
           </v-list-tile-action>
           <a href="http://sirups.stiki-indonesia.ac.id/user/login" target="_blank">
             <v-list-tile-content>
@@ -129,12 +129,36 @@
         </v-list-tile>
         <v-list-tile>
           <v-list-tile-action>
-            <v-icon>list_alt</v-icon>
+            <v-icon>bookmark_border</v-icon>
           </v-list-tile-action>
           <a href="http://stiki-indonesia.ac.id/profil-stiki/" target="_blank">
             <v-list-tile-content>
               <v-list-tile-title>
                 <p>About Stiki</p>
+              </v-list-tile-title>
+            </v-list-tile-content>
+          </a>
+        </v-list-tile>
+        <v-list-tile>
+          <v-list-tile-action>
+            <v-icon>bookmark_border</v-icon>
+          </v-list-tile-action>
+          <a href="https://drive.google.com/file/d/13bIRo_vqRWQoswTTjRIRLesAyBi0sd5k/view" target="_blank">
+            <v-list-tile-content>
+              <v-list-tile-title>
+                <p>Sert. Akreditasi TI</p>
+              </v-list-tile-title>
+            </v-list-tile-content>
+          </a>
+        </v-list-tile>
+        <v-list-tile>
+          <v-list-tile-action>
+            <v-icon>bookmark_border</v-icon>
+          </v-list-tile-action>
+          <a href="https://drive.google.com/file/d/1yV7AO9Z7i3TPvSt3d7-G01azn8iLPR2T/view?usp=sharing" target="_blank">
+            <v-list-tile-content>
+              <v-list-tile-title>
+                <p>Sert. Akreditasi SK</p>
               </v-list-tile-title>
             </v-list-tile-content>
           </a>
